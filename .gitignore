@@ -1,0 +1,12 @@
+# Nunca credenciales ni secretos en este repo
+.env
+.env.*
+*.key
+CREDENCIALES*
+credenciales*
+**/settings.local.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+node_modules/
