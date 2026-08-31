@@ -1,0 +1,14 @@
+{
+  "env": {
+    "PROJECT_NAME": "{{NOMBRE}}",
+    "PROJECT_LAYER": "{{CAPA}}"
+  },
+  "permissions": {
+    "deny": [
+      "Bash(rm *)",
+      "Bash(rm -rf *)",
+      "Bash(del *)",
+      "Bash(Remove-Item *)"
+    ]
+  }
+}
