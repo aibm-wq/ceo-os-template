@@ -11,6 +11,17 @@ Este repo es la **estructura vacía**, sin datos de ningún negocio real. Clóna
 
 ---
 
+## Requisitos
+
+Este sistema está pensado para funcionar bien con:
+
+- **[Claude Code](https://claude.com/claude-code)** — el agente que lee `CLAUDE.md`, opera el brain y ejecuta los skills. Sin esto, la estructura es solo carpetas y markdown estático.
+- **[Obsidian](https://obsidian.md)** — abre esta misma carpeta como vault para navegar el brain visualmente (grafo de notas, backlinks, búsqueda). No es obligatorio para que Claude Code funcione, pero es la forma recomendada de que un humano recorra el sistema sin depender solo del agente.
+
+No requiere ninguna otra herramienta — todo lo demás (CRM, ERP, banco) se conecta vía MCP o se referencia desde `HITL-MATRIX.md`, nunca se duplica dentro del vault.
+
+---
+
 ## Cómo empezar
 
 1. Clona este repo a tu máquina: `git clone <este-repo> mi-empresa-os`
