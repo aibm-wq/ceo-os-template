@@ -36,8 +36,8 @@ Al arrancar, Claude lee `CLAUDE.md` y tiene todo el contexto del proyecto.
 
 ## Arquitectura
 
-Este proyecto es parte de AIDA-OS — el sistema operativo local de Aida Bermúdez.
-Brain central: `Desktop/AIDA-OS/`
+Este proyecto es parte de tu propio "CEO OS" — el sistema operativo local descrito en el README raíz.
+Brain central: `00_SISTEMA/MASTER.md`
 
 ### Capa AIDA-OS: {{CAPA}}
 
@@ -53,5 +53,5 @@ Brain central: `Desktop/AIDA-OS/`
 
 ## Contacto
 
-**Operadora:** Aida Bermúdez — aibm@bwealthics.com
-**Arquitectura:** AIDA-OS v2 · CCA-F Nivel 2 baseline
+**Operador/a:** {{TU_NOMBRE}} — {{TU_EMAIL}}
+**Arquitectura:** basado en CEO OS Template
